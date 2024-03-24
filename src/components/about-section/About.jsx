@@ -24,7 +24,7 @@ const About = () => {
           <img
             className="lg:w-[80%] rounded-md shadow-lg"
             src={about_me}
-            al="coder"
+            alt="coder"
           />
         </div>
 

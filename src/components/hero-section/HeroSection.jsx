@@ -50,6 +50,7 @@ const HeroSection = () => {
           <img
             className="md:w-[70%] rounded-lg shadow-lg"
             src="https://nehalkadyan-portfolio.netlify.app/static/media/portfolioImage.f861cd2045330df8ffd7.jpeg"
+            alt="coder"
           />
         </div>
       </div>

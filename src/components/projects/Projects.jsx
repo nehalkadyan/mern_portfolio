@@ -160,7 +160,7 @@ const Projects = () => {
               <div className="flex gap-8">
                 <div className="flex text-lg items-center gap-4">
                   Live Link
-                  <a href="#">
+                  <a href="https://github.com/nehalkadyan/entertainment-mern-app">
                     <FaExternalLinkAlt className="cursor-pointer text-teal-600" />
                   </a>
                 </div>
@@ -192,7 +192,7 @@ const Projects = () => {
               <div className="flex gap-8">
                 <div className="flex text-lg items-center gap-4">
                   Live Link
-                  <a href="#">
+                  <a href="https://github.com/nehalkadyan">
                     <FaExternalLinkAlt className="cursor-pointer text-teal-600" />
                   </a>
                 </div>
