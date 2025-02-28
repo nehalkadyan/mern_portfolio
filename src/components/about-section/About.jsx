@@ -61,18 +61,10 @@ const About = () => {
                 A dedicated Front-end Developer based in New Delhi, India 📍
               </h1>
               <p className="text-md ">
-                As a Full Stack Developer, I possess an impressive arsenal of
-                skills in HTML, CSS, tailwind CSS, JavaScript, React.js,
-                Node.js, Express.js, MongoDB and SQL. I have also worked with
-                technologies like Typescript, Next.js, React Native, etc
+               As a Full Stack Developer, I possess an impressive arsenal of skills in HTML, CSS, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, TypeScript, Next.js, and React Native. I excel in both backend development and frontend projects, with experience in React, Node, Express, PostgreSQL, Prisma, and Firebase.
               </p>
               <p className="text-md ">
-                My expertise extends beyond code – I'm dedicated to helping
-                businesses and individuals enhance their online presence and
-                achieve growth. By combining technical prowess with a deep
-                understanding of user experience, I specialize in creating
-                visually appealing and high-performance websites that engage and
-                convert.
+                My expertise extends beyond code – I'm dedicated to helping businesses and individuals enhance their online presence and achieve growth. By combining technical prowess with a deep understanding of user experience, I specialize in creating visually appealing and high-performance websites that engage and convert. Seeking to apply my comprehensive skill set to innovative projects at reputable organizations.
               </p>
             </div>
           )}
@@ -81,7 +73,7 @@ const About = () => {
             <div className="py-4 lg:py-0">
               <ul className="flex flex-col gap-4">
                 <li>
-                  <h1 className="text-lg font-semibold">BCA 2023(Graduate)</h1>
+                  <h1 className="text-lg font-semibold">Bachelors's Computer Science 2023(Graduate)</h1>
                   <p>Guru Gobind Singh Indraprastha University</p>
                 </li>
                 <li>
@@ -121,7 +113,7 @@ const About = () => {
                 </li>
                 <li>
                   <h1 className="text-lg font-semibold">Tools, utilities</h1>
-                  <p>VS Code, Thunder Client, Firebase, Postman</p>
+                  <p>VS Code, Thunder Client, Firebase, Postman, Docker</p>
                 </li>
               </ul>
             </div>
